@@ -1,0 +1,29 @@
+
+.wrapper_print{
+	width:100%!important;
+}
+.action{
+	display:none;
+}
+.edit{
+	display: none;
+}
+
+table {
+    width: 93%;
+    float: center;
+}
+
+th, td {
+    text-align: center;
+    width:15%;
+    padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+
+}

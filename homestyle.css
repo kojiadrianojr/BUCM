@@ -1,0 +1,29 @@
+body, div, h1, h2, h3, h4, h5, h6, p, ul, ol, li, dl, dt, dd, img, form{
+	margin: 0; padding: 0; border: 0;
+}
+
+body{
+	text-align: center;
+	margin: 0;
+	padding: 35px 0 0;
+	left: 0px;
+	top: 0px;
+
+
+}
+
+header{
+
+	height: 45px;
+	background-color: #33cc33;
+	width: 100%;
+	text-align: center;
+	font-size: 18px;
+	align-content: 0px;
+	align-self:0px;
+
+}
+
+h1{
+	font-color: green;
+}
